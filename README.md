@@ -4,8 +4,11 @@ Smart water meter system is concern for proper utilization of water. As we all k
 In that project various components are used :
 
 Water flow sensor : water flow sensor is used to measure the flow rate of water and calculate the amount of water flowed through the pipe.
+
 NodeMCU ESP8266 : NodeMCU ESP8266 is a wifi module .These module is used in project to access the wifi or internet. It can communicate with any microcontroller and make the projects wireless.
+
 Arduino UNO : The Arduino UNO is a microcontroller. It as a number of sockets that can be wired up to external electronics such as sensor, relay etc. Arduino control all the device that are connected to it. They can powered either through USBconnection from the computer or from a 9 volt battery.
+
 Solenoid Valve : Solenoid valve is used to control the flow of water. Through relay solenoid valve control the flow when relay get ON the water get flow but when relay get OFF the water flow getting stop.
 
 There are the various module: 
