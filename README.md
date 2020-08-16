@@ -11,7 +11,8 @@ Arduino UNO : The Arduino UNO is a microcontroller. It as a number of sockets th
 
 Solenoid Valve : Solenoid valve is used to control the flow of water. Through relay solenoid valve control the flow when relay get ON the water get flow but when relay get OFF the water flow getting stop.
 
-There are the various module: 
+There are the various module:
+
 • Firstly we connect the WIFI through NodeMCU and then generate the flow rate of water through water flow sensor and that flow rate store in the database through WIFI. 
 • After these we establish the connection of solenoid valve. In that various components are used that was Valve, relay for ON OFF the valve, 12Valt adapter, Arduino UNO, button. In these when we press the button the relay ON and the water will flow but when we release the button the relay OFF and the water flow getting stop.
 • I also design the Inverter for access the WIFI when light was gone. To design the inverter various components are used that was transformer 9-0-9 , transistor TIP41, 1K ohm resister , 12valt battery.
